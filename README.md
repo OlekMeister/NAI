@@ -24,7 +24,14 @@ Created by: Mateusz Budzisz && Aleksander Guzik
 
 This Python code implements the "Dodge The Pile" game using the `easyAI` library. The game is represented by the `DodgeThePileGame` class, which inherits from `TwoPlayerGame`. The game logic is implemented in various methods of this class.
 
-
+## Running
+1. Use JetBrains PyCharm
+2. Click file > close project if you have any project opened
+3. Click 'Get from VCS' button
+4. Paste URL: https://github.com/ElectroluxV2/nai1
+5. Click clone
+6. Right click `main.py`
+7. Click run 'main'
 
 ## Example gameplay screenshots
 

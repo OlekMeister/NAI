@@ -19,20 +19,20 @@ In this project, the focus is on applying these machine learning algorithms to t
 ## Example screenshots
 
 ### Diabetes Decision tree
-![App Screenshot](../screenshots/p4-0.png)
-![App Screenshot](../screenshots/p4-1.png)
+![App Screenshot](../screenshots/P4-0.png)
+![App Screenshot](../screenshots/P4-1.png)
 
 ### Diabetes SVM
-![App Screenshot](../screenshots/p4-2.png)
-![App Screenshot](../screenshots/p4-3.png)
+![App Screenshot](../screenshots/P4-2.png)
+![App Screenshot](../screenshots/P4-3.png)
 
 ### Milk Decision tree
-![App Screenshot](../screenshots/p4-4.png)
-![App Screenshot](../screenshots/p4-5.png)
+![App Screenshot](../screenshots/P4-4.png)
+![App Screenshot](../screenshots/P4-5.png)
 
 ### Milk SVM
-![App Screenshot](../screenshots/p4-6.png)
-![App Screenshot](../screenshots/p4-7.png)
+![App Screenshot](../screenshots/P4-6.png)
+![App Screenshot](../screenshots/P4-7.png)
 
 ## Author
 

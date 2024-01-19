@@ -25,7 +25,7 @@ The smile detection is based on two Haar cascades: one for face detection and th
 
 1. Example of Smile Detection in Real-Time:
    
-https://github.com/OlekMeister/NAI/assets/57796690/b6c83399-90e1-4d80-99bb-593e7974bfc2
+![https://github.com/OlekMeister/NAI/assets/57796690/b6c83399-90e1-4d80-99bb-593e7974bfc2]
 
 
 2. Customized Smile Detection on some random pictures:
